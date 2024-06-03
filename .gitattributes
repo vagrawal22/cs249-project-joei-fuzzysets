@@ -1,0 +1,6 @@
+*.ckpt filter=lfs diff=lfs merge=lfs -text
+*.txt.data-* filter=lfs diff=lfs merge=lfs -text
+model/mtranse_hparams/fuzzyset_CMP-linear_dim1_300_dim2_100_a1_2.5_a2_1.0_m1_0.5_fold_3/fuzzyset-model-m2.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+fuzzy_embeddings.txt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+fuzzy_embeddings.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+results.zip filter=lfs diff=lfs merge=lfs -text

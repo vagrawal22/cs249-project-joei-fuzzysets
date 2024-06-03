@@ -1,0 +1,2 @@
+model_checkpoint_path: "fuzzyset-model-m2.ckpt"
+all_model_checkpoint_paths: "fuzzyset-model-m2.ckpt"

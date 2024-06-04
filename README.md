@@ -1,7 +1,5 @@
-# JOIE:Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts
+# Representation Learning with Fuzzy Sets
 
-Code and dataset for paper ["Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts"](https://dl.acm.org/doi/10.1145/3292500.3330838) published in KDD'2019.
+Group Members: Vani Agrawal, Dhakshina Ilango, Muskan Rizwan Shaikh, Kajal Sharma
 
-Other Links: [Promo Video](https://youtu.be/krJP6Lpa4so), [Slides](https://www.haojunheng.com/files/pubs/KDD19-JOIE-Presentation.pdf)
-
-Contact Junheng <jhao@cs.ucla.edu> for more questions.
+[Presentation Slides](https://docs.google.com/presentation/d/171ITUUa0ZgR6VGi0SJCkuilevPlmW8e-YbnuBDyfW2A/edit?usp=sharing)

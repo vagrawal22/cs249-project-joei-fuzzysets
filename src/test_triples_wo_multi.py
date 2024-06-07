@@ -22,7 +22,7 @@ import tensorflow as tf
 import time
 import multiG  
 import model2 as model
-from tester1 import Tester
+from tester1_fuzzy import Tester
 import argparse
 
 # all parameter required
